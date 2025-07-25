@@ -145,4 +145,3 @@ const revenue = [
 ];
 
 export { users, customers, invoices, revenue };
-//每个 JavaScript 对象代表数据库中的一个表
